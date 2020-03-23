@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scarab/Examples/ScarabMenu.unity
+    guid: a9598bdcc21add94d95a4992e66f0751
+  - enabled: 1
+    path: Assets/Scarab/Examples/ShootingGallery/ShootingGallery.unity
+    guid: caa80d4f6eb1785429b860efd9f4c0e3
+  - enabled: 1
+    path: Assets/Scarab/Examples/SnowballSamurai/SnowballSamurai.unity
+    guid: 2b326d6e6f0d07b43bc39876c8764229
+  - enabled: 1
+    path: Assets/Scarab/Examples/CastleCollapse/CastleCollapse.unity
+    guid: 29ae8e7d0ada8ed458e6a7cd62fd670a
+  - enabled: 1
+    path: Assets/Scarab/Examples/SliceTheString/SliceTheString.unity
+    guid: e3dc2e2c7324f7a4f8058ed36dceb303
+  m_configObjects: {}
